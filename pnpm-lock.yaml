@@ -39,8 +39,8 @@ dependencies:
     specifier: ^0.1.3
     version: 0.1.3(react-dom@16.14.0)(react@16.14.0)
   '@posthog/plugin-scaffold':
-    specifier: ^1.3.2
-    version: 1.3.4
+    specifier: ^1.4.3
+    version: 1.4.3
   '@react-hook/size':
     specifier: ^2.1.2
     version: 2.1.2(react@16.14.0)
@@ -207,8 +207,8 @@ dependencies:
     specifier: ^5.4.1
     version: 5.4.1
   posthog-js:
-    specifier: 1.83.1
-    version: 1.83.1
+    specifier: 1.83.2
+    version: 1.83.2
   posthog-js-lite:
     specifier: 2.0.0-alpha5
     version: 2.0.0-alpha5
@@ -3342,8 +3342,8 @@ packages:
       react-dom: 16.14.0(react@16.14.0)
     dev: false
 
-  /@posthog/plugin-scaffold@1.3.4:
-    resolution: {integrity: sha512-69AC7GA3sU/z5X6SVlH7mgj+0XgolvOp9IUtvRNA4CXF/OglFM81SXbTkURxL9VBSNfdAZxRp+8x+h4rmyj4dw==}
+  /@posthog/plugin-scaffold@1.4.3:
+    resolution: {integrity: sha512-fzWJ8lvAUlbTcffaFVcfhV9QiAVGL4j1OnXDc+p+bqWMP/yTwvljXDiwV96w3mti9r40E1NBz/yQRykyB78+EA==}
     dependencies:
       '@maxmind/geoip2-node': 3.5.0
     dev: false
@@ -15144,8 +15144,8 @@ packages:
     resolution: {integrity: sha512-tlkBdypJuvK/s00n4EiQjwYVfuuZv6vt8BF3g1ooIQa2Gz9Vz80p8q3qsPLZ0V5ErGRy6i3Q4fWC9TDzR7GNRQ==}
     dev: false
 
-  /posthog-js@1.83.1:
-    resolution: {integrity: sha512-DXVYnNMzeCanD8b81VHtqM3La7u+OOQExDV7pjkXpME7Kdq0RjGehl+LsDy5AYvTQEuiuUIcH8aHJQ19bEuAbQ==}
+  /posthog-js@1.83.2:
+    resolution: {integrity: sha512-SC+04/LBFclwspY8xFaaTQ7lO7+f9R8xmgVkXiPrxKDUSZTDR6MlfQdJfmriXWqecdZ05ZJRcdYtL585gz1nFA==}
     dependencies:
       fflate: 0.4.8
     dev: false
